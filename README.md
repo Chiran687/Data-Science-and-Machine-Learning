@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Python_For_Data_Science
 KMC_Course
-=======
+
 <h1>Data Science and Machine Learning Course</h1>
 Welcome to the Data Science and Machine Learning course! This repository contains Jupyter Notebook assignments and practice materials organized on a week-by-week basis.
 
@@ -22,4 +21,4 @@ Jupyter Notebook or JupyterLab
 
 <h1>Feedback and Contributions</h1>
 Feedback and contributions to this course are welcome! If you have suggestions for improvements or would like to contribute additional materials, please feel free to create an issue or submit a pull request.
->>>>>>> 19a46db (Data_Science)
+
