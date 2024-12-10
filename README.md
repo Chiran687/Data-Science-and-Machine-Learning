@@ -4,7 +4,7 @@ Welcome to the 8-Week Python Machine Learning Journey! This roadmap is meticulou
 ## 📂 Repository Structure
 This repository is organized into weekly folders. Each week focuses on a specific milestone, and inside each week's folder, you'll find daily folders packed with scripts, exercises, and Jupyter notebooks tailored for that day's learning objectives.
 
-/8-Week-Python-ML-Journey/  
+### /8-Week-Python-ML-Journey/  
 ├── Week-1_Python-Basics-and-Scripting/  
 │   ├── Day-1_Variables-and-Data-Types/  
 │   ├── Day-2_Control-Flow/  
@@ -20,9 +20,9 @@ This repository is organized into weekly folders. Each week focuses on a specifi
 │   ├── Day-1_Model-Hyperparameter-Tuning/  
 │   ├── Day-2-Cross-Validation/  
 │   ├── ...  
-│   └── Day-7-Final-Project/    
-🛤️ Weekly Overview
-Week 1: Python Basics and Scripting
+│   └── Day-7-Final-Project/      
+## 🛤️ Weekly Overview
+### Week 1: Python Basics and Scripting  
 Objective: Build a strong foundation in Python scripting.
 Key Topics:
 Python syntax, data types, and variables.
