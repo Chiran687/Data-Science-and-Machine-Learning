@@ -24,65 +24,72 @@ This repository is organized into weekly folders. Each week focuses on a specifi
 ## 🛤️ Weekly Overview
 ### Week 1: Python Basics and Scripting  
 <b>Objective:</b> Build a strong foundation in Python scripting.  
-Key Topics:  
+<b>Key Topics: </b>   
 Python syntax, data types, and variables.  
 Functions, loops, and conditionals.  
 File handling and modular programming.  
-Highlight: By Day 7, you'll create a basic script to manage files and folders dynamically.  
+<b>Highlight:</b> By Day 7, you'll create a basic script to manage files and folders dynamically.  
+
 ### Week 2: Data Mining  
-Objective: Learn to extract data from various sources.  
-Key Topics:  
+<b>Objective:</b> Learn to extract data from various sources.  
+<b>Key Topics: </b>   
 Web scraping with BeautifulSoup and Scrapy.  
 Consuming APIs and handling JSON.  
 Automating data collection with Python.  
-Highlight: A mini-project on mining and cleaning real-world data.  
+<b>Highlight:</b> A mini-project on mining and cleaning real-world data.
+
 ### Week 3: Data Cleaning and Transformation  
-Objective: Master data preparation for machine learning.  
-Key Topics:  
+<b>Objective:</b> Master data preparation for machine learning.  
+<b>Key Topics: </b>   
 Handling missing data.  
 Outlier detection and removal.  
 Data normalization, encoding, and scaling.  
-Highlight: Transform raw data into a clean, structured dataset ready for analysis.  
+<b>Highlight:</b> Transform raw data into a clean, structured dataset ready for analysis.
+
 ### Week 4: Exploratory Data Analysis (EDA)  
-Objective: Uncover insights and patterns in your data.  
-Key Topics:  
+<b>Objective:</b> Uncover insights and patterns in your data.  
+<b>Key Topics: </b>   
 Data visualization using Matplotlib and Seaborn.  
 Statistical summaries and correlation analysis.  
 Feature engineering basics.  
-Highlight: Perform a detailed EDA on a large dataset and prepare a report.  
+<b>Highlight:</b> Perform a detailed EDA on a large dataset and prepare a report.
+
 ### Week 5: Introduction to Machine Learning  
-Objective: Dive into the fundamentals of machine learning.  
-Key Topics:  
+<b>Objective:</b> Dive into the fundamentals of machine learning.  
+<b>Key Topics: </b>  
 Introduction to supervised and unsupervised learning.  
 Setting up Scikit-learn and Pandas.  
 Creating your first machine learning model.  
-Highlight: Train a linear regression model and evaluate its performance.  
-Week 6: Advanced Supervised Learning  
-Objective: Deepen your understanding of supervised models. 
-Key Topics:  
+<b>Highlight:</b> Train a linear regression model and evaluate its performance. 
+
+### Week 6: Advanced Supervised Learning  
+<b>Objective:</b> Deepen your understanding of supervised models. 
+<b>Key Topics: </b>  
 Decision trees, random forests, and SVMs.  
 Overfitting, underfitting, and regularization.  
 Model interpretability.  
-Highlight: Implement and compare multiple supervised models on the same dataset.  
+<b>Highlight:</b> Implement and compare multiple supervised models on the same dataset. 
+
 ### Week 7: Model Training and Deployment  
-Objective: Optimize and deploy your machine learning models.  
-Key Topics:  
+<b>Objective:</b> Optimize and deploy your machine learning models.  
+<b>Key Topics: </b>   
 Model pipelines and automation.  
 Saving and loading models with Pickle.  
 Introduction to model deployment with Flask.  
-Highlight: Build and deploy a web app for your trained model.  
+<b>Highlight:</b> Build and deploy a web app for your trained model. 
+
 ### Week 8: Model Optimization and Evaluation  
-Objective: Fine-tune your models for maximum accuracy.  
-Key Topics:  
+<b>Objective:</b> Fine-tune your models for maximum accuracy.  
+<b>Key Topics: </b> 
 Hyperparameter tuning with GridSearchCV.  
 Cross-validation and test/train splits.  
 Evaluating models using precision, recall, F1-score, and AUC.  
-Highlight: Conduct a capstone project where you build, optimize, and evaluate a full machine learning pipeline.  
+<b>Highlight:</b> Conduct a capstone project where you build, optimize, and evaluate a full machine learning pipeline.  
 ## ✨ Features  
-Daily Progress: Each day is packed with bite-sized tasks for focused learning.  
-Hands-On Exercises: Includes multiple scripts and Jupyter Notebooks for practical experience.  
-Projects: Weekly projects to apply what you've learned and showcase your skills.  
-Resources: Additional reading materials and references are included in each folder.  
+<b>Daily Progress:</b> Each day is packed with bite-sized tasks for focused learning.  
+<b>Hands-On Exercises:</b> Includes multiple scripts and Jupyter Notebooks for practical experience.  
+<b>Projects:</b> Weekly projects to apply what you've learned and showcase your skills.  
+<b>Resources:</b> Additional reading materials and references are included in each folder.  
 ## 🛠️ Tools You'll Use  
 Python Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Flask.  
 Jupyter Notebooks: For interactive coding and visualization.  
