@@ -93,10 +93,9 @@ Clone this repository:
 git clone https://github.com/Chiran687/Data-Science-and-Machine-Learning.git  
 Navigate to the week and day of your choice:  
 
-cd Week-1_Python-Basics-and-Scripting/Day-1_Variables-and-Data-Types/  
+cd Week-1_/Day-1/  
 Open the Jupyter Notebook or run scripts directly:  
 
-jupyter notebook  
 ## 🏆 Final Milestone  
 By the end of this journey, you will have: 
 
