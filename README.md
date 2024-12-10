@@ -1,26 +1,26 @@
-8-Week Python Machine Learning Journey 🚀
-Welcome to the 8-Week Python Machine Learning Journey! This roadmap is meticulously designed to guide you through mastering Python scripting, data mining, data cleaning, model training, and supervised machine learning. Whether you're a beginner or someone looking to consolidate their knowledge, this journey is structured to provide incremental, hands-on learning, day by day.
+# 8-Week Python Machine Learning Journey 🚀
+Welcome to the 8-Week Python Machine Learning Journey! This roadmap is meticulously designed to guide you through mastering Python scripting, data mining, data cleaning, model training, and supervised machine learning. Whether you're a beginner or someone looking to consolidate their knowledge, this journey is structured to provide incremental, hands-on learning, day by day.  
 
-📂 Repository Structure
+## 📂 Repository Structure
 This repository is organized into weekly folders. Each week focuses on a specific milestone, and inside each week's folder, you'll find daily folders packed with scripts, exercises, and Jupyter notebooks tailored for that day's learning objectives.
 
-/8-Week-Python-ML-Journey/
-├── Week-1_Python-Basics-and-Scripting/
-│   ├── Day-1_Variables-and-Data-Types/
-│   ├── Day-2_Control-Flow/
-│   ├── ...
-│   └── Day-7_Project-File-Handling/
-├── Week-2_Data-Mining/
-│   ├── Day-1_Web-Scraping-with-BeautifulSoup/
-│   ├── Day-2_APIs-and-JSON/
-│   ├── ...
-│   └── Day-7-Project-Mining-Dataset/
-...
-├── Week-8_Model-Optimization-and-Evaluation/
-│   ├── Day-1_Model-Hyperparameter-Tuning/
-│   ├── Day-2-Cross-Validation/
-│   ├── ...
-│   └── Day-7-Final-Project/  
+/8-Week-Python-ML-Journey/  
+├── Week-1_Python-Basics-and-Scripting/  
+│   ├── Day-1_Variables-and-Data-Types/  
+│   ├── Day-2_Control-Flow/  
+│   ├── ...  
+│   └── Day-7_Project-File-Handling/  
+├── Week-2_Data-Mining/  
+│   ├── Day-1_Web-Scraping-with-BeautifulSoup/  
+│   ├── Day-2_APIs-and-JSON/  
+│   ├── ...  
+│   └── Day-7-Project-Mining-Dataset/  
+...  
+├── Week-8_Model-Optimization-and-Evaluation/  
+│   ├── Day-1_Model-Hyperparameter-Tuning/  
+│   ├── Day-2-Cross-Validation/  
+│   ├── ...  
+│   └── Day-7-Final-Project/    
 🛤️ Weekly Overview
 Week 1: Python Basics and Scripting
 Objective: Build a strong foundation in Python scripting.
