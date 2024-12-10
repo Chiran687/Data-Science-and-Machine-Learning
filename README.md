@@ -25,65 +25,65 @@ This repository is organized into weekly folders. Each week focuses on a specifi
 ### Week 1: Python Basics and Scripting  
 <b>Objective:</b> Build a strong foundation in Python scripting.  
 <b>Key Topics: </b>   
-Python syntax, data types, and variables.  
-Functions, loops, and conditionals.  
-File handling and modular programming.  
+* Python syntax, data types, and variables.  
+* Functions, loops, and conditionals.  
+* File handling and modular programming.  
 <b>Highlight:</b> By Day 7, you'll create a basic script to manage files and folders dynamically.  
 
 ### Week 2: Data Mining  
 <b>Objective:</b> Learn to extract data from various sources.  
 <b>Key Topics: </b>   
-Web scraping with BeautifulSoup and Scrapy.  
-Consuming APIs and handling JSON.  
-Automating data collection with Python.  
+* Web scraping with BeautifulSoup and Scrapy.  
+* Consuming APIs and handling JSON.  
+* Automating data collection with Python.  
 <b>Highlight:</b> A mini-project on mining and cleaning real-world data.
 
 ### Week 3: Data Cleaning and Transformation  
 <b>Objective:</b> Master data preparation for machine learning.  
 <b>Key Topics: </b>   
-Handling missing data.  
-Outlier detection and removal.  
-Data normalization, encoding, and scaling.  
+* Handling missing data.  
+* Outlier detection and removal.  
+* Data normalization, encoding, and scaling.  
 <b>Highlight:</b> Transform raw data into a clean, structured dataset ready for analysis.
 
 ### Week 4: Exploratory Data Analysis (EDA)  
 <b>Objective:</b> Uncover insights and patterns in your data.  
 <b>Key Topics: </b>   
-Data visualization using Matplotlib and Seaborn.  
-Statistical summaries and correlation analysis.  
-Feature engineering basics.  
+* Data visualization using Matplotlib and Seaborn.  
+* Statistical summaries and correlation analysis.  
+* Feature engineering basics.  
 <b>Highlight:</b> Perform a detailed EDA on a large dataset and prepare a report.
 
 ### Week 5: Introduction to Machine Learning  
 <b>Objective:</b> Dive into the fundamentals of machine learning.  
 <b>Key Topics: </b>  
-Introduction to supervised and unsupervised learning.  
-Setting up Scikit-learn and Pandas.  
-Creating your first machine learning model.  
+* Introduction to supervised and unsupervised learning.  
+* Setting up Scikit-learn and Pandas.  
+* Creating your first machine learning model.  
 <b>Highlight:</b> Train a linear regression model and evaluate its performance. 
 
 ### Week 6: Advanced Supervised Learning  
 <b>Objective:</b> Deepen your understanding of supervised models. 
 <b>Key Topics: </b>  
-Decision trees, random forests, and SVMs.  
-Overfitting, underfitting, and regularization.  
-Model interpretability.  
+* Decision trees, random forests, and SVMs.  
+* Overfitting, underfitting, and regularization.  
+* Model interpretability.  
 <b>Highlight:</b> Implement and compare multiple supervised models on the same dataset. 
 
 ### Week 7: Model Training and Deployment  
 <b>Objective:</b> Optimize and deploy your machine learning models.  
 <b>Key Topics: </b>   
-Model pipelines and automation.  
-Saving and loading models with Pickle.  
-Introduction to model deployment with Flask.  
+* Model pipelines and automation.  
+* nSaving and loading models with Pickle.  
+* Introduction to model deployment with Flask.  
 <b>Highlight:</b> Build and deploy a web app for your trained model. 
 
 ### Week 8: Model Optimization and Evaluation  
 <b>Objective:</b> Fine-tune your models for maximum accuracy.  
-<b>Key Topics: </b> 
-Hyperparameter tuning with GridSearchCV.  
-Cross-validation and test/train splits.  
-Evaluating models using precision, recall, F1-score, and AUC.  
+<b>Key Topics: </b>   
+* Hyperparameter tuning with GridSearchCV.  
+* Cross-validation and test/train splits.  
+* Evaluating models using precision, recall, F1-score, and AUC.  
 <b>Highlight:</b> Conduct a capstone project where you build, optimize, and evaluate a full machine learning pipeline.  
 ## ✨ Features  
 <b>Daily Progress:</b> Each day is packed with bite-sized tasks for focused learning.  
