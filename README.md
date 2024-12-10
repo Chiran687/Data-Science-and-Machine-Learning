@@ -23,7 +23,7 @@ This repository is organized into weekly folders. Each week focuses on a specifi
 │   └── Day-7-Final-Project/      
 ## 🛤️ Weekly Overview
 ### Week 1: Python Basics and Scripting  
-Objective: Build a strong foundation in Python scripting.  
+<b>Objective:</b> Build a strong foundation in Python scripting.  
 Key Topics:  
 Python syntax, data types, and variables.  
 Functions, loops, and conditionals.  
