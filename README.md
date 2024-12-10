@@ -90,7 +90,7 @@ APIs and Web Tools: BeautifulSoup, Requests, and more.
 ## 🚀 Getting Started  
 Clone this repository:  
 
-git clone https://github.com/your-username/8-Week-Python-ML-Journey.git  
+git clone https://github.com/Chiran687/Data-Science-and-Machine-Learning.git  
 Navigate to the week and day of your choice:  
 
 cd Week-1_Python-Basics-and-Scripting/Day-1_Variables-and-Data-Types/  
